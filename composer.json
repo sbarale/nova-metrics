@@ -1,5 +1,5 @@
 {
-    "name": "square1/nova-metrics",
+    "name": "sbarale/nova-metrics",
     "description": "Add support for resource-filters on your laravel nova metrics",
     "keywords": [
         "laravel",
